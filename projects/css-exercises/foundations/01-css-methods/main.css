@@ -1,6 +1,10 @@
 /* main.css */
 
 div {
-    color: red;
-    font-family:monospace;
+    background-color: red;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 0px;
+    width: 60%;
 }
